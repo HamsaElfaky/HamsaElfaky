@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there I'm Hamsa 👋
 
 <!--
 **HamsaElfaky/HamsaElfaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying Computer Science & information technology 
+💻 Interested in full-stack development  
+📫 Reach me at: hamsaelfaky161@gmail.com
 
 Here are some ideas to get you started:
 
